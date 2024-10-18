@@ -19,7 +19,7 @@ Just go to the current link and play whatever you want. If you want to fork, ple
 I would be very greatful if someone took the time to help me with this project. I've been working on this for WAY too long by myself.
 
 ## How to contact me:
-Email: shrashep@outlook.com
+Email: hockeyref49@yahoo.com
 
 ## current version: 1.3.4
 **Added:**
